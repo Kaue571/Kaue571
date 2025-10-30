@@ -27,7 +27,9 @@ echo ">> Status: $STATUS"
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
+---
+
 ### 📊 [ GITHUB_STATS ]
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fusernai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fusernai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
