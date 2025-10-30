@@ -13,7 +13,7 @@ echo ">> Status: $STATUS"
 ```
 
 <p align="center">
-  <img src="" alt="Hacker" width="400">
+  <img src="https://github.com/Kaue571/Kaue571/blob/main/img.png" alt="Hacker" width="400">
 </p>
 
 <p align="left">
