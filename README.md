@@ -25,7 +25,7 @@ NOME="Kauê"
 FOCO="Cibersegurança / Desenvolvimento"
 STATUS="Buscando vulnerabilidades... e café."
 
-echo ">> Usuário: $XAVIER"
+echo ">> Usuário: $NOME"
 echo ">> Foco: $FOCO"
 echo ">> Status: $STATUS"
 
