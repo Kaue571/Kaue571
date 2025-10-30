@@ -4,12 +4,9 @@
 
 <h1 align="center">Kaue571</h1>
 
-
-
 <p align="center">
   <code>[ A C E S S O _ G A R A N T I D O ]</code>
 </p>
----
 
 <p align="center">
   <a href="https://git.io/typing-svg">
