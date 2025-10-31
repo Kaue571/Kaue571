@@ -11,9 +11,6 @@
 </p>
 
 ---
-### 🏆 Meus Troféus
-
-[![Meus Troféus](https://github-profile-trophy.vercel.app/?username=KauE571&theme=transparent&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### >_ SOBRE_MIM.sh
 
@@ -30,6 +27,12 @@ echo ">> Usuário: $XAVIER"
 echo ">> Foco: $FOCO"
 echo ">> Status: $STATUS"
 ```
+
+
+### 🏆 Meus Troféus
+
+[![Meus Troféus](https://github-profile-trophy.vercel.app/?username=KauE571&theme=transparent&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 📊 Minhas Estatísticas no GitHub
 
 [![Minhas Stats no GitHub](https://github-readme-stats.vercel.app/api?username=KauE571&show_icons=true&theme=transparent)](https://github.com/KauE571)
