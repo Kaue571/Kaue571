@@ -57,7 +57,6 @@ echo ">> Status: $STATUS"
 
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/[seu-username-aqui]](https://www.linkedin.com/in/kaue-xavier?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/[seu-username-aqui]](https://www.instagram.com/o_xav_ier?igsh=MTEzcWRxdzNkc2dybA==))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[seu-username-aqui])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/[seu-username-aqui])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[seu-email-aqui]@gmail.com)
-
