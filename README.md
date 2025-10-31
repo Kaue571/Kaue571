@@ -32,4 +32,5 @@ echo ">> Status: $STATUS"
 
 [![Minhas Stats no GitHub](https://github-readme-stats.vercel.app/api?username=KauE571&show_icons=true&theme=transparent)](https://github.com/KauE571)
 &nbsp;
+[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KauE571&layout=compact&theme=transparent)](https://github.com/KauE571)
 
