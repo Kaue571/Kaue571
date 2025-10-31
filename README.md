@@ -11,6 +11,7 @@
 </p>
 
 ---
+![Animação de Digitação](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=00FF00&center=true&vCenter=true&width=500&lines=Kauê+Xavier;Especialista+em+Cibersegurança;Sempre+aprendendo...;%5BAcesso+Garantido%5D)
 
 
 ### >_ SOBRE_MIM.sh
