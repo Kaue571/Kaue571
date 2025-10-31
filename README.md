@@ -28,6 +28,10 @@ echo ">> Foco: $FOCO"
 echo ">> Status: $STATUS"
 ```
 
+### 👁️ Visitantes do Perfil
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=KauE571&color=00ff00&style=flat-square)
+
 
 ### 🏆 Meus Troféus
 
