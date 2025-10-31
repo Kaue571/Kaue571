@@ -11,8 +11,9 @@
 </p>
 
 ---
-![Animação de Digitação](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=00FF00&center=true&vCenter=true&width=500&lines=Kauê+Xavier;Especialista+em+Cibersegurança;Sempre+aprendendo...;%5BAcesso+Garantido%5D)
+### 🏆 Meus Troféus
 
+[![Meus Troféus](https://github-profile-trophy.vercel.app/?username=KauE571&theme=transparent&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### >_ SOBRE_MIM.sh
 
