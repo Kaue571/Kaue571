@@ -46,4 +46,3 @@ echo ">> Status: $STATUS"
 ![AWS](https://progress-bar.dev/20/?title=AWS)
 ![Docker](https://progress-bar.dev/20/?title=Docker)
 ![Java](https://progress-bar.dev/20/?title=Java)
-
