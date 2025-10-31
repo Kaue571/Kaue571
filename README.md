@@ -14,21 +14,6 @@
 
 
 ### >_ SOBRE_MIM.sh
-### 📊 Minhas Estatísticas no GitHub
-
-[![Minhas Stats no GitHub](https://github-readme-stats.vercel.app/api?username=KauE571&show_icons=true&theme=transparent)](https://github.com/KauE571)
-&nbsp;
-[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KauE571&layout=compact&theme=transparent)](https://github.com/KauE571)
-![Python](https://progress-bar.dev/60/?title=Python)
-![Cibersegurança](https://progress-bar.dev/70/?title=Cibersegurança)
-![HTML](https://progress-bar.dev/80/?title=HTML)
-![CSS](https://progress-bar.dev/80/?title=CSS)
-![JavaScript](https://progress-bar.dev/40/?title=JavaScript)
-![SQL](https://progress-bar.dev/40/?title=SQL)
-![Azure](https://progress-bar.dev/30/?title=Azure)
-![AWS](https://progress-bar.dev/20/?title=AWS)
-![Docker](https://progress-bar.dev/20/?title=Docker)
-![Java](https://progress-bar.dev/20/?title=Java)
 
 ```bash
 #!/bin/bash
@@ -42,5 +27,9 @@ STATUS="Buscando vulnerabilidades... e café."
 echo ">> Usuário: $XAVIER"
 echo ">> Foco: $FOCO"
 echo ">> Status: $STATUS"
+```
+### 📊 Minhas Estatísticas no GitHub
 
+[![Minhas Stats no GitHub](https://github-readme-stats.vercel.app/api?username=KauE571&show_icons=true&theme=transparent)](https://github.com/KauE571)
+&nbsp;
 
