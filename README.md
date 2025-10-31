@@ -28,10 +28,6 @@ echo ">> Foco: $FOCO"
 echo ">> Status: $STATUS"
 ```
 
-### 👁️ Visitantes do Perfil
-
-![Contador de Visitas](https://komarev.com/ghpvc/?username=KauE571&color=00ff00&style=flat-square)
-
 
 ### 🏆 Meus Troféus
 
@@ -54,3 +50,8 @@ echo ">> Status: $STATUS"
 ![AWS](https://img.shields.io/badge/AWS-20%25-232F3E?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-20%25-2496ED?logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-20%25-F89820?logo=openjdk&logoColor=white)
+
+### 👁️ Visitantes do Perfil
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=KauE571&color=00ff00&style=flat-square)
+
