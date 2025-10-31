@@ -14,17 +14,16 @@
 
 
 ### >_ SOBRE_MIM.sh
-
-![Python](https://img.shields.io/badge/Python-60%25-3776AB?logo=python&logoColor=white)
-![Cibersegurança](https://img.shields.io/badge/Cibersegurança-70%25-000000?logo=shield&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-80%25-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-80%25-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-40%25-4479A1?logo=mysql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-30%25-0078D4?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-20%25-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-20%25-2496ED?logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-20%25-F89820?logo=openjdk&logoColor=white)
+![Python](https://progress-bar.dev/60/?title=Python)
+![Cibersegurança](https://progress-bar.dev/70/?title=Cibersegurança)
+![HTML](https://progress-bar.dev/80/?title=HTML)
+![CSS](https://progress-bar.dev/80/?title=CSS)
+![JavaScript](https://progress-bar.dev/40/?title=JavaScript)
+![SQL](https://progress-bar.dev/40/?title=SQL)
+![Azure](https://progress-bar.dev/30/?title=Azure)
+![AWS](https://progress-bar.dev/20/?title=AWS)
+![Docker](https://progress-bar.dev/20/?title=Docker)
+![Java](https://progress-bar.dev/20/?title=Java)
 
 ```bash
 #!/bin/bash
