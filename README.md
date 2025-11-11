@@ -29,9 +29,7 @@ echo ">> Status: $STATUS"
 ```
 
 
-### 🏆 Meus Troféus
 
-[![Meus Troféus](https://github-profile-trophy.vercel.app/?username=KauE571&theme=transparent&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Minhas Estatísticas no GitHub
 
